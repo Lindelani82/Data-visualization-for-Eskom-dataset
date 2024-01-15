@@ -11,4 +11,8 @@ The main object for this project are:
 - Data Sourcing- Experiment with different Power BI Data connectors
 - Data formatting- clean,transform and format sourced data
 - Data Visualization- fix 'broken' Dashboard and create new visuals
+
+# Technologies and tools used
+- Microsoft Power BI- used for data cleaning, processing and Data Visualizations
+  
  
